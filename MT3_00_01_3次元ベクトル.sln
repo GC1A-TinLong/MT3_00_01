@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT3_00_01_3次元ベクトル", "MT3_00_01_3次元ベクトル.vcxproj", "{965603C6-52A9-4D55-97B6-911F4D848762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965603C6-52A9-4D55-97B6-911F4D848762}.Debug|x64.ActiveCfg = Debug|x64
+		{965603C6-52A9-4D55-97B6-911F4D848762}.Debug|x64.Build.0 = Debug|x64
+		{965603C6-52A9-4D55-97B6-911F4D848762}.Release|x64.ActiveCfg = Release|x64
+		{965603C6-52A9-4D55-97B6-911F4D848762}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B12673-F345-4834-96FD-16B60B490E9B}
+	EndGlobalSection
+EndGlobal
