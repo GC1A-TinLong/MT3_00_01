@@ -11,9 +11,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	// ライブラリの初期化
 	Novice::Initialize(kWindowTitle, 1280, 720);
 
-	/*Vector3* v1 = new Vector3(1.0f, 3.0f, -5.0f);
-	Vector3* v2 = new Vector3(4.0f, -1.0f, 2.0f);*/
-
 	Vector3 v1(1.0f, 3.0f, -5.0f);
 	Vector3 v2(4.0f, -1.0f, 2.0f);
 	float k = 4.0f;
